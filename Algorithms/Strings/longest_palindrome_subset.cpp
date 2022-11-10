@@ -1,17 +1,5 @@
 //
 // A dynamic programming solution for longest palindr.
-// This code is adopted from following link
-// http://www.leetcode.com/2011/11/longest-palindromic-substring-part-i.html
-//
-//
-// The All ▲lgorithms Project
-//
-// https://allalgorithms.com/strings
-// https://github.com/allalgorithms/cpp
-//
-// Contributed by: Tushar Kanakagiri
-// Github: @tusharkanakagiri
-//
 #include <stdio.h>
 #include <string.h>
 
