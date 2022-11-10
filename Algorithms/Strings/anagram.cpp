@@ -2,13 +2,6 @@
 // C/C++ program to check whether two strings are anagrams
 // of each other
 //
-// The All ▲lgorithms Project
-//
-// https://allalgorithms.com/strings
-// https://github.com/allalgorithms/cpp
-//
-// Contributed by: Tushar Kanakagiri
-// Github: @tusharkanakagiri
 //
 
 #include <stdio.h>
