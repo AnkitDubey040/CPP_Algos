@@ -3,14 +3,7 @@
 // algorithm that is optimized for the cases when all
 // characters of pattern are different
 //
-// The All ▲lgorithms Project
-//
-// https://allalgorithms.com/strings
-// https://github.com/allalgorithms/cpp
-//
-// Contributed by: Tushar Kanakagiri
-// Github: @tusharkanakagiri
-//
+
 #include <stdio.h>
 #include <string.h>
 
