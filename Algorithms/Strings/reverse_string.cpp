@@ -1,14 +1,7 @@
 //
 // Reverse String in C++
 //
-// The All ▲lgorithms Project
-//
-// https://allalgorithms.com/strings
-// https://github.com/allalgorithms/cpp
-//
-// Contributed by: Tushar Kanakagiri
-// Github: @tusharkanakagiri
-//
+
 #include <stdio.h>
 
 /* function prototype for utility function to
