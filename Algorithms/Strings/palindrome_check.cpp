@@ -27,5 +27,3 @@ int main()
    isPalindrome(str);
 	return 0; 
 }
-Footer
-© 2022 GitHub, 
